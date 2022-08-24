@@ -1,6 +1,6 @@
 # Assignment2 - Data Access
 
-#Description
+# Description
 Part1: 
 Script made in MSSMS to create and manipulate a database with folders
 
